@@ -6,7 +6,7 @@ saklanmaktadır. İstendiği zaman veriler okunabilir yazılabilir. Böylece oyu
 kaydedebilir veya kaydettiği yerden devam edebilir.
 
 # Uygulama İçi Görseller
-<img src="images/image2.png" height="500">      <img src="images/13.jpeg" height="500">
+<img src="images/image2.png" height="500">    
 
 
 ## AutoSave 
